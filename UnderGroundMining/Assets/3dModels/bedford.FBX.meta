@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: d54b9b94988028a44b6555760869c667
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: basis_b
+    100002: //RootNode
+    100004: body&body_b
+    100006: body_b
+    100008: bodyback&bodyback_b
+    100010: bodyback_b
+    100012: bone000
+    100014: cabine&cabine_b
+    100016: cabine_b
+    100018: commander_b
+    100020: doorl&doorl_b
+    100022: doorl_b
+    100024: doorr&doorr_b
+    100026: doorr_b
+    100028: driver_b
+    100030: emit1_b
+    100032: emit2_b
+    100034: emit3_b
+    100036: emit4_b
+    100038: engine&engine_b
+    100040: engine_b
+    100042: enumerator1_b
+    100044: examine1_b
+    100046: examine2_b
+    100048: examine_b
+    100050: fxfire1_b
+    100052: fxlight_b
+    100054: fxsmoke1_b
+    100056: fxtracel1_b
+    100058: fxtracel2_b
+    100060: fxtracer1_b
+    100062: fxtracer2_b
+    100064: glass_b
+    100066: headlightl_b
+    100068: headlightr_b
+    100070: link2_b
+    100072: pivot_back&pivot_back_b
+    100074: pivot_back_b
+    100076: pivot_front&pivot_front_b
+    100078: pivot_front_b
+    100080: revolute steer_l_b
+    100082: revolute steer_r_b
+    100084: revolute steerrudder_b
+    100086: revolute wheell1_b
+    100088: revolute wheell2_b
+    100090: revolute wheelr1_b
+    100092: revolute wheelr2_b
+    100094: seat01_b
+    100096: seat02_b
+    100098: seat03_b
+    100100: seat04_b
+    100102: seat05_b
+    100104: seat06_b
+    100106: seat07_b
+    100108: seat08_b
+    100110: seat09_b
+    100112: seat10_b
+    100114: spring_l_b
+    100116: spring_r_b
+    100118: steerrudder&revolute steerrudder_b
+    100120: visor_b
+    100122: wheell1&revolute wheell1_b
+    100124: wheell2&revolute wheell2_b
+    100126: wheelr1&revolute wheelr1_b
+    100128: wheelr2&revolute wheelr2_b
+    400000: basis_b
+    400002: //RootNode
+    400004: body&body_b
+    400006: body_b
+    400008: bodyback&bodyback_b
+    400010: bodyback_b
+    400012: bone000
+    400014: cabine&cabine_b
+    400016: cabine_b
+    400018: commander_b
+    400020: doorl&doorl_b
+    400022: doorl_b
+    400024: doorr&doorr_b
+    400026: doorr_b
+    400028: driver_b
+    400030: emit1_b
+    400032: emit2_b
+    400034: emit3_b
+    400036: emit4_b
+    400038: engine&engine_b
+    400040: engine_b
+    400042: enumerator1_b
+    400044: examine1_b
+    400046: examine2_b
+    400048: examine_b
+    400050: fxfire1_b
+    400052: fxlight_b
+    400054: fxsmoke1_b
+    400056: fxtracel1_b
+    400058: fxtracel2_b
+    400060: fxtracer1_b
+    400062: fxtracer2_b
+    400064: glass_b
+    400066: headlightl_b
+    400068: headlightr_b
+    400070: link2_b
+    400072: pivot_back&pivot_back_b
+    400074: pivot_back_b
+    400076: pivot_front&pivot_front_b
+    400078: pivot_front_b
+    400080: revolute steer_l_b
+    400082: revolute steer_r_b
+    400084: revolute steerrudder_b
+    400086: revolute wheell1_b
+    400088: revolute wheell2_b
+    400090: revolute wheelr1_b
+    400092: revolute wheelr2_b
+    400094: seat01_b
+    400096: seat02_b
+    400098: seat03_b
+    400100: seat04_b
+    400102: seat05_b
+    400104: seat06_b
+    400106: seat07_b
+    400108: seat08_b
+    400110: seat09_b
+    400112: seat10_b
+    400114: spring_l_b
+    400116: spring_r_b
+    400118: steerrudder&revolute steerrudder_b
+    400120: visor_b
+    400122: wheell1&revolute wheell1_b
+    400124: wheell2&revolute wheell2_b
+    400126: wheelr1&revolute wheelr1_b
+    400128: wheelr2&revolute wheelr2_b
+    2100000: material0254
+    2100002: material0000
+    2100004: material0002
+    2100006: 'Material #36'
+    2300000: engine&engine_b
+    3300000: engine&engine_b
+    4300000: engine&engine_b
+    4300002: cabine&cabine_b
+    4300004: wheell2&revolute wheell2_b
+    4300006: wheell1&revolute wheell1_b
+    4300008: doorl&doorl_b
+    4300010: doorr&doorr_b
+    4300012: wheelr1&revolute wheelr1_b
+    4300014: wheelr2&revolute wheelr2_b
+    4300016: steerrudder&revolute steerrudder_b
+    4300018: body&body_b
+    4300020: bodyback&bodyback_b
+    4300022: pivot_front&pivot_front_b
+    4300024: pivot_back&pivot_back_b
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body&body_b
+    13700002: bodyback&bodyback_b
+    13700004: cabine&cabine_b
+    13700006: doorl&doorl_b
+    13700008: doorr&doorr_b
+    13700010: pivot_back&pivot_back_b
+    13700012: pivot_front&pivot_front_b
+    13700014: steerrudder&revolute steerrudder_b
+    13700016: wheell1&revolute wheell1_b
+    13700018: wheell2&revolute wheell2_b
+    13700020: wheelr1&revolute wheelr1_b
+    13700022: wheelr2&revolute wheelr2_b
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
